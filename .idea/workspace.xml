@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd94d993-cd5a-4bb7-b140-7e772916c1ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/relevant_file/titanic_random_forest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chat_robot" beforeDir="false" afterPath="$PROJECT_DIR$/../chat_robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pet_shop" beforeDir="false" afterPath="$PROJECT_DIR$/../pet_shop" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/titanic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/titanic.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../twitter/-Scraping" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter/-Scraping" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +27,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/relevant_file/titanic_random_forest.py">
+        <entry file="file://$PROJECT_DIR$/titanic_random_forest.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -71,11 +69,6 @@
               <item name="titanic" type="b2602c69:ProjectViewProjectNode" />
               <item name="titanic" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="titanic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="titanic" type="462c0819:PsiDirectoryNode" />
-              <item name="relevant_file" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -85,6 +78,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ctake\PycharmProjects\titanic\" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -112,7 +110,7 @@
     <frame x="-1927" y="-314" width="1550" height="878" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12080537" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31208053" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -142,7 +140,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/relevant_file/titanic_random_forest.py">
+    <entry file="file://$PROJECT_DIR$/titanic_random_forest.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
